@@ -1,0 +1,21 @@
+{
+  "name": "すまえるフォン",
+  "short_name": "すまえるフォン",
+  "description": "すまえるフォンで、かんたん通話。宛先と発信元番号を入力して、すぐに発信できます。",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
